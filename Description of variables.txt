@@ -1,0 +1,61 @@
+Description of variables
+location_id_n: Location id
+location_name: Location name
+allcausemortality: All-cause mortality (per 100 000 population)
+HRH: All health workers_mean (workers per 10 000 population)
+HRHgroup: Levels of human resources in health
+year: Year
+popul_density: Population density (people per km²)
+urban_percentage: Percentage of the population living in urban areas (%)
+schooling: Average years of schooling (year)
+gdp: GDP per capita (constant 2017 international $)
+SDI: Socio-Demographic Index (SDI)
+HDI: Human Development Index (HDI)
+HIV_AIDS_a: HIV/AIDS and sexually transmitted infections
+Respirator: Respiratory infections and tuberculosis
+Enteric_in: Enteric infections
+Neglected_: Neglected tropical diseases and malaria
+Other_infe: Other infectious diseases
+Maternal_a: Maternal and neonatal disorders
+Nutritiona: Nutritional deficiencies
+Neoplasms: Neoplasms
+Cardiovasc: Cardiovascular diseases
+Chronic_re: Chronic respiratory diseases
+Digestive_: Digestive diseases
+Neurologic: Neurological disorders
+Mental_dis: Mental disorders
+Substance_: Substance use disorders
+Diabetes_a: Diabetes and kidney diseases
+Skin_and_s: Skin and subcutaneous diseases
+Musculoske: Musculoskeletal disorders
+Other_nonc: Other non-communicable diseases
+Transport_: Transport injuries
+Unintentio: Unintentional injuries
+Selfharm_a: Self-harm and interpersonal violence
+Aides__Em: Aides & Emergency Medical Workers/Workers per 10,000 population
+Audiologis: Audiologists and Counsellors_mean/Workers per 10,000 population
+Dental_Ass: Dental Assistants_mean/Workers per 10,000 population
+Dentistry_: Dentistry personnel_mean/Workers per 10,000 population
+Dentists: Dentists_mean/Workers per 10,000 population
+Dieticians: Dieticians & Nutritionists_mean/Workers per 10,000 population
+Environmen: Environmental Health Officers_mean/Workers per 10,000 population
+Medical_As: Medical Assistants & CHWs_mean/Workers per 10,000 population
+Medical_La: Medical Lab Technicians_mean/Workers per 10,000 population
+Nursing__: Nursing & Midwifery Professionals_mean/Workers per 10,000 population
+Nursing_an: Nursing and midwifery personnel_mean/Workers per 10,000 population
+Optometris: Optometrists_mean/Workers per 10,000 population
+Personal_C: Personal Care Workers_mean/Workers per 10,000 population
+Pharmaceut: Pharmaceutical personnel_mean/Workers per 10,000 population
+Pharmacist: Pharmacists_mean/Workers per 10,000 population
+Physical_T: Physical Therapists_mean/Workers per 10,000 population
+physicians__mean: Physicians_mean Workers per 10,000 population
+Physicians: Physicians, clinical officers, and CHWs_mean/Workers per 10,000 population
+Psychologi: Psychologists_mean/Workers per 10,000 population
+Radiograph: Radiographers_mean/Workers per 10,000 population
+Traditiona: Traditional & Complementary Practitioners_mean/Workers per 10,000 population
+phy_total： the proportion of physicians in total HRH
+nurs_total：the proportion of nursing and midwifery personnel
+den_total： the proportion of dentistry personnel in total HRH
+pha_total： the proportion of pharmaceutical personnel in total HRH
+phy_nurs：the proportion of physicians in nursing and midwifery personnel
+
